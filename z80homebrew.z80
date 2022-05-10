@@ -1,0 +1,8 @@
+
+include "a_constants.asm"
+include "a_IOSerial.asm"
+
+    jp   start
+
+include "a_MINT.asm"
+include "a_ram.asm"
